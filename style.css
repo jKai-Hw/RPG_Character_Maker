@@ -1,0 +1,15 @@
+.display-fluid {
+  border: solid 0.3rem white;
+  border-radius: 0.5rem;
+}
+
+.imgFit {
+  object-fit: contain;
+}
+
+#inputArea p {
+  width: 55px;
+}
+.w-55px {
+  width: 55px;
+}
